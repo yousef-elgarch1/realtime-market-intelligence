@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Real-Time Market Intelligence Platform
 
 ## 🎯 Business Problem
@@ -40,3 +41,6 @@ pip install -r requirements.txt
 
 # Start services
 docker-compose up -d
+=======
+# realtime-market-intelligence
+>>>>>>> 33c0842bf15e152032aa5cd2c711536743e0bc40
